@@ -1,1 +1,5 @@
-
+<bug>
+  <project> "Name"</project>
+  <component>"Head"</component>
+  <version>"0/1"</version>
+  <severity>"trivial"</severuty>
